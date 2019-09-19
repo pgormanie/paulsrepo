@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f14e8c81-ade3-4db4-b91a-e9b092bf31d8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/excercise_1/Exercise1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/excercise_1/Exercise1Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/paulscode.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/excercise_1/Exercise1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/excercise_1/Exercise1Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MethodsClasses/EmployeeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MethodsClasses/EmployeeMain.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -193,7 +184,7 @@
       <workItem from="1568100245269" duration="20000" />
       <workItem from="1568100298762" duration="1404000" />
       <workItem from="1568105519829" duration="14897000" />
-      <workItem from="1568883464692" duration="4224000" />
+      <workItem from="1568883464692" duration="4351000" />
     </task>
     <servers />
   </component>

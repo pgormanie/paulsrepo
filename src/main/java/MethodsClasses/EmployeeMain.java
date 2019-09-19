@@ -22,6 +22,8 @@ public class EmployeeMain {
         for(int i = 0; i < employeeArrayList.size(); i++){
             System.out.println(employeeArrayList.get(i).getFirstname() + " " + employeeArrayList.get(i).getSecondname());
         }
+
+        System.out.println();
     }
 
 
