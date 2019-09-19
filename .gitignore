@@ -1,0 +1,9 @@
+# file: ~/.gitignore_global
+#ignore IDEA files
+.idea/*
+.DS_Store
+*.iml
+# ignore class files
+*.class
+# target folder
+target/
