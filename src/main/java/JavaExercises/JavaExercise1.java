@@ -6,6 +6,7 @@ public class JavaExercise1 {
         String name = "Paul";
         System.out.println(greeting);
         System.out.println(name);
+        System.out.println(name);
     }
 }
 
