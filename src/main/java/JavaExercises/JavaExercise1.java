@@ -7,7 +7,6 @@ public class JavaExercise1 {
         System.out.println(greeting);
         System.out.println(name);
         System.out.println("Blah");
-        System.out.println(name);
     }
 }
 
