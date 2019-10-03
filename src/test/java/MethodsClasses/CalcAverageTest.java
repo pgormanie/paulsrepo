@@ -20,5 +20,7 @@ public class CalcAverageTest {
 
         // then
         Assert.assertEquals(2, result);
+
+        System.out.println();
     }
 }
