@@ -2,6 +2,7 @@ package JavaExercises;
 
 public class JavaExercise36 {
     public static void main(String[] args) {
+        System.out.println();
     }
 }
 
