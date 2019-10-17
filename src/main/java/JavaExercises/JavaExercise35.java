@@ -1,6 +1,9 @@
 package JavaExercises;
 
 public class JavaExercise35 {
+    public static void main(String[] args) {
+
+    }
 }
 
 //35. Write a Java program to compute the area of a polygon. Go to the editor
