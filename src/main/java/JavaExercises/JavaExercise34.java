@@ -1,6 +1,9 @@
 package JavaExercises;
 
 public class JavaExercise34 {
+    public static void main(String[] args) {
+
+    }
 }
 
 //34. Write a Java program to compute the area of a hexagon. Go to the editor
