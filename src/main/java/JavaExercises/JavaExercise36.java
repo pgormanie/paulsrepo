@@ -1,6 +1,10 @@
 package JavaExercises;
 
 public class JavaExercise36 {
+    public static void main(String[] args) {
+        System.out.println();
+        
+    }
 }
 
 //36. Write a Java program to compute the distance between two points on the surface of earth. Go to the editor
