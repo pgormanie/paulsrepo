@@ -19,5 +19,7 @@ public class CalcAverage {
         int result = calcAverageNew.calcAverage(num1, num2, num3);
         System.out.println("The average number is: " + result);
         System.out.println(calcAverageNew);
+
     }
+
 }
