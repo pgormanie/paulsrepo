@@ -9,6 +9,7 @@ public class JavaCircleAreaMain {
         System.out.println("The Radius of the Circle is " + circleRadiusResult);
         double circleAreaResult = Math.PI * (circleRadiusResult * circleRadiusResult);
         System.out.println("The Area of the Circle is " + circleAreaResult);
+        System.out.println("Anything");
     }
 
 }
