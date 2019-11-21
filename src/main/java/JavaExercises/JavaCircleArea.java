@@ -3,17 +3,17 @@ package JavaExercises;
 public class JavaCircleArea {
 
     // Method to calculate diameter and then radius -> radius = circumference / pi / 2
-    public static double calcRad(double circumference) {
+    public double calcCircleRad(double circumference) {
         double diameterResult = circumference / Math.PI;
         double radResult = diameterResult / 2;
         return radResult;
     }
 
-    // Main method creates an instance of circleArea and passes the radius value of 50
-    public static void main(String[] args) {
-        JavaCircleArea circleArea = new JavaCircleArea();
-        double circleAreaNew = Math.PI * ((calcRad(100) * calcRad(100)));
-        System.out.println("The Area of the Circle is " + circleAreaNew);
-
+    // A = Pi * (R Squared)
+    public double calcCircleArea(double radius) {
+        double radSqrd = calcCircleRad(360);
+        double circleAreaResult = radSqrd * Math.PI;
+        return circleAreaResult;
     }
+
 }

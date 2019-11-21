@@ -1,9 +1,9 @@
 package JavaExercises;
 
-import org.junit.Assert;
-import org.junit.Test;
-import org.junit.runner.RunWith;
-import org.mockito.runners.MockitoJUnitRunner;
+        import org.junit.Assert;
+        import org.junit.Test;
+        import org.junit.runner.RunWith;
+        import org.mockito.runners.MockitoJUnitRunner;
 
 @RunWith(MockitoJUnitRunner.class)
 public class JavaCircleAreaTest {
@@ -18,4 +18,5 @@ public class JavaCircleAreaTest {
         Assert.assertEquals(50, radResult);
         System.out.println();
     }
+
 }
