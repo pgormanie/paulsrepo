@@ -15,7 +15,6 @@ public class JavaCircleAreaTest {
         int radius = diameterResult/2;
         double expectedResult = Math.PI * (radius * radius);
         //when
-
         double areaResult = javaCircleArea.calcCircleArea(radius);
         //then
         Assert.assertEquals(expectedResult, areaResult, 0.001);
