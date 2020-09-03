@@ -1,13 +1,13 @@
 package MethodsClasses;
 
-public class Employee {
+public class EmployeeOld {
 
     private String firstname;
     private String secondname;
     private String jobtitle;
     private double yearsofservice;
 
-    public Employee(String firstname, String secondname, String jobtitle, double yearsofservice) {
+    public EmployeeOld(String firstname, String secondname, String jobtitle, double yearsofservice) {
         this.firstname = firstname;
         this.secondname = secondname;
         this.jobtitle = jobtitle;

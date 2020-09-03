@@ -29,7 +29,7 @@ public class ArrayListDemo {
 
         for (int i = 0; i < guitarListNew.size(); i++) {
             System.out.println(guitarListNew.get(i));   // Print out each value in the guitarListNew array
-            System.out.println("I value is " + i);      // Print the value of i for every loop
+            System.out.println("I value is " + i);      // Print the value of the index i for every loop
         }
         return 0;
     }
