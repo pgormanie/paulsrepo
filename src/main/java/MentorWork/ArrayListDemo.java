@@ -1,4 +1,4 @@
-package MethodsClasses;
+package MentorWork;
 
 import java.util.ArrayList;     // getArrayListSize
 
@@ -31,6 +31,6 @@ public class ArrayListDemo {
             System.out.println(guitarListNew.get(i));   // Print out each value in the guitarListNew array
             System.out.println("I value is " + i);      // Print the value of the index i for every loop
         }
-        return 0;
+        return guitarListNew.size();
     }
 }

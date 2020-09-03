@@ -52,13 +52,13 @@ public class JavaExerciseEmployees {
     }
 
 
-    public static void isRetired(List<Employee> list) {     // Method to calculate retirement age using cycleThroughEmployees method above
-        int getU2Age = cycleThroughEmployees(calcYearsToRetirement(u2Age));   // Access u2Age from above method
-        int isRetiredCalc = 65 - getU2Age;     // Calculate how long until retirement age
-        System.out.println(u2Name + "'s age is " + u2Age + " and will retire in " + isRetiredCalc + " years.");
+//    public static void isRetired(List<Employee> list) {     // Method to calculate retirement age using cycleThroughEmployees method above
+//        int getU2Age = cycleThroughEmployees(calcYearsToRetirement(u2Age));   // Access u2Age from above method
+//        int isRetiredCalc = 65 - getU2Age;     // Calculate how long until retirement age
+//        System.out.println(u2Name + "'s age is " + u2Age + " and will retire in " + isRetiredCalc + " years.");
     }
 
-}
+
 
 /*
 Write a method named cycleThroughEmployees. This will take in a List of employees.

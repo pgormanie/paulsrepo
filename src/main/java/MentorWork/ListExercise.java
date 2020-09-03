@@ -1,7 +1,6 @@
-package MethodsClasses;
+package MentorWork;
 
 import java.util.ArrayList;
-import java.util.List;
 
 public class ListExercise {
 

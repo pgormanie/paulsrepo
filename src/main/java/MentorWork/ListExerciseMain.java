@@ -1,4 +1,4 @@
-package MethodsClasses;
+package MentorWork;
 
 public class ListExerciseMain {
 

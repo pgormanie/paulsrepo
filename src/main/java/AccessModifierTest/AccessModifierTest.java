@@ -1,6 +1,6 @@
 package AccessModifierTest;
 
-import MethodsClasses.ListExercise;
+import MentorWork.ListExercise;
 
 public class AccessModifierTest {
 
